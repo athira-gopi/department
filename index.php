@@ -19,19 +19,19 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="aboutus.html">About Us</a>
+                <a class="nav-link active"a aria-current="page" href="aboutus.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="gallery.html">Gallery</a>
+                <a class="nav-link active"a aria-current="page" href="gallery.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="dept.html">Department</a>
+                <a class="nav-link active"a aria-current="page" href="dept.php">Department</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="contact.html">Contact Us</a>
+                <a class="nav-link active"a aria-current="page" href="contact.php">Contact Us</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>

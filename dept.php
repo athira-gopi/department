@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="">RCSS</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,19 +18,19 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="aboutus.html">About Us</a>
+                <a class="nav-link active"a aria-current="page" href="aboutus.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="gallery.html">Gallery</a>
+                <a class="nav-link active"a aria-current="page" href="gallery.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="dept.html">Department</a>
+                <a class="nav-link active"a aria-current="page" href="dept.php">Department</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"a aria-current="page" href="contact.html">Contact Us</a>
+                <a class="nav-link active"a aria-current="page" href="contact.php">Contact Us</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
@@ -199,9 +199,9 @@
                                     <div class="card card-body">
                                         <ul class="list-unstyled side-sublist">
                                                                                                             <li>
-                                                    <a href="mca.html">MCA</a>                                                                </li>  
+                                                    <a href="mca.php">MCA</a>                                                                </li>  
                                                                                                             <li>
-                                                    <a href="msc.html">MSc Computer Science (Data Analytics)</a>                                                                </li>  
+                                                    <a href="msc.php">MSc Computer Science (Data Analytics)</a>                                                                </li>  
                                                                                                     </ul>
                                     </div>
                                 </div>
@@ -231,9 +231,9 @@
                                     <div class="card card-body">
                                         <ul class="list-unstyled side-sublist">
                                                                                                             <li>
-                                                    <a href="mca.html">MCA</a>                                                                </li>  
+                                                    <a href="mca.php">MCA</a>                                                                </li>  
                                                                                                             <li>
-                                                    <a href="msc.html">MSc Computer Science (Data Analytics)</a>                                                                </li>  
+                                                    <a href="msc.php">MSc Computer Science (Data Analytics)</a>                                                                </li>  
                                                                                                     </ul>
                                     </div>
                                 </div>
